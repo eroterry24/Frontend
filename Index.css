@@ -1,0 +1,21 @@
+.body-style{
+    background-color: green;
+    color: purple;
+}
+
+/* There is a class in the html named paragraph-text */
+/* I gave it a text color of white and di moved it to the center*/
+
+.paragraph-text{
+    text-align: center;
+    color: white;
+}
+.image-class{
+    max-width: 100%;
+    height: auto;
+}
+.video-class{
+    height: auto;
+    mix-width: 60%
+}
+
